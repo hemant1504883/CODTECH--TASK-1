@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT4J3940
 Domain: Java programming 
 Duration: 5 July to 5 August
-Mentor: NeeLa Santhosh Kumar
+Mentor: Neela Santhosh Kumar
 
 
 Overview of the Project
